@@ -1,4 +1,3 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p>
 
 <div align="center">
 
@@ -150,7 +149,7 @@
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about web development, writing mistake-free documentation or AI/ML, feel free to <a href="mailto:guerrandw@gmail.com">contact me by email</a>, I won't bite, I promise.
+If you have any questions about web development, writing mistake-free documentation or AI/ML, feel free to <a href="mailto:pingulkarshriya@gmail.com">contact me by email</a>, I won't bite, I promise.
 
   </td>
   <td width="50%" valign="top">
