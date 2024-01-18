@@ -35,7 +35,7 @@
  * @param {string} specialization - Building full-fledged web applications.
  * @param {string} interests - AI/ML, UI/UX, writing & problem-solving.
  * @param {string} hobbies - Reading, writing, dancing & playing music.
- * @param {string} education - I.T Engineering Junior.
+ * @param {string} education - I.T Engineering Senior.
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to reach out.
  */
 ```
